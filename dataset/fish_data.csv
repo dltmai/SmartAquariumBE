@@ -1,0 +1,542 @@
+fish_id,name_english,alt_name,name_latin,swim,cm_max,uncare,breeding_difficulty,availability,school,tank_size_liter,temperature_min,temperature_max,agression,origin,region,isfish,phmin,phmax,more,family
+102,Black phantom tetra,,Hyphessobrycon megalopterus,2,3.6,3,2,3,3,65,21,28,1,"Bolivia, Brazil,",1,1,6,7.5,1,Characidae
+103,Black Neon Tetra,,Hyphessobrycon herbertaxelrodi,2,3.5,4,2,3,3,60,22,28,1,"Brazil,",1,1,5.5,7.5,1,Characidae
+104,Black widow tetra,black skirt tetra,Gymnocorymbus ternetzi,2,6,4,2,3,3,75,20,26,2,"Brazil, Bolivia, Argentina,",1,1,6,7.5,1,Characidae
+105,Bleeding heart tetra,,Hyphessobrycon erythrostigma,2,6,3,2,2,3,75,21,27,1,"Peru,",1,1,6,7.5,1,Characidae
+106,Bloodfin tetra,,Aphyocharax anisitsi,2,5.5,4,2,3,3,75,22,28,2,"Brazil, Paraguay, Argentina,",1,1,6,8,1,Characidae
+107,Blue tetra,,Knodus borki,2,5,2,4,3,3,85,22,26,2,"Colombia, Brazil,",1,1,5.5,7,1,Characidae
+108,Bucktooth tetra,,Exodon paradoxus,2,12,2,4,2,3,170,23,28,3,"Brazil,",1,1,5.5,7.5,1,Characidae
+109,Buenos Aires tetra,,Hyphessobrycon anisitsi,2,7.5,4,2,2,3,95,19,27,2,"Brazil, Paraguay, Argentina,",1,1,6,8,1,Characidae
+110,Cardinal tetra,,Paracheirodon axelrodi,2,4.5,3,4,4,3,60,23,29,1,"Brazil,",1,1,5,7,1,Characidae
+111,Blind cave tetra,Mexican tetra,Astyanax mexicanus,2,12,3,2,2,2,95,21,25,1,"Mexico,",1,1,6,8,1,Characidae
+112,Diamond tetra,,Moenkhausia pittieri,2,6,3,3,3,3,75,24,28,2,"Venezuela,",1,1,6,7.5,1,Characidae
+113,Ember tetra,,Hyphessobrycon amandae,2,2,2,2,3,3,35,22,28,1,"Brazil,",1,1,5.5,7,1,Characidae
+114,Emperor tetra,,Nematobrycon palmeri,2,5,3,2,3,3,75,23,27,2,"Colombia ,",1,1,5.5,7.5,1,Characidae
+115,Flame tetra,,Hyphessobrycon flammeus,2,2.5,3,2,2,3,38,20,26,1,"Brazil,",1,1,5.5,7.5,1,Characidae
+116,Garnet tetra,pretty tetra,Hemigrammus pulcher,2,4.5,3,3,2,3,75,23,28,1,"Peru,",1,1,5,7,1,Characidae
+117,Glass bloodfin tetra,,Prionobrama filigera,2,6,3,3,3,3,75,23,27,1,South America,1,1,6,7.5,1,Characidae
+118,Glowlight tetra,,Hemigrammus erythrozonus,2,4,3,2,2,3,70,24,28,1,"Guyana,",1,1,6,7.5,1,Characidae
+120,Green neon tetra,,Paracheirodon simulans,2,2.5,3,3,3,3,55,22,30,1,"Brazil, Venezuela, Colombia,",1,1,5.5,7.5,1,Characidae
+121,Head-and-taillight tetra,,Hemigrammus ocellifer,2,4.5,4,2,3,3,65,24,28,1,"The Guianas, Peru, Brazil,",1,1,5.5,7.5,1,Characidae
+122,January tetra,costello tetra,Hemigrammus hyanuary,2,4,2,3,2,3,65,23,27,1,"Peru, Brazil,",1,1,5.5,7,1,Characidae
+123,Lemon tetra,,Hyphessobrycon pulchripinnis,2,5,3,3,4,3,65,22,28,1,"Brazil,",1,1,6,8,1,Characidae
+124,Neon tetra,,Paracheirodon innesi,2,3.75,4,3,4,3,40,21,25,1,"Peru, Colombia, Brazil,",1,1,5,7.5,1,Characidae
+125,Ornate tetra,,Hyphessobrycon bentosi,2,4.5,3,3,3,3,75,22,28,1,"Brazil,",1,1,5.5,7.5,1,Characidae
+126,Penguin tetra,blackline penguinfish,Thayeria boehlkei,2,6.5,3,2,2,3,75,22,28,1,"Peru, Brazil,",1,1,6,7.5,1,Characidae
+127,Red eye tetra,,Moenkhausia sanctaefilomenae,2,7,3,3,3,3,105,22,26,2,"Brazil, Paraguay, Argentina,",1,1,6,7.5,1,Characidae
+128,Red phantom tetra,,Hyphessobrycon sweglesi,2,4,3,2,3,3,55,22,28,1,"Venezuela, Colombia,",1,1,5.5,7.5,1,Characidae
+129,Rosy tetra,,Hyphessobrycon rosaceus,2,4,3,2,2,3,55,24,28,1,"Guyana, Suriname, Brazil,",1,1,5.5,7.5,1,Characidae
+130,Royal tetra,Emperor Tetra,Inpaichthys kerri,2,3.5,4,2,3,3,55,24,27,1,"Brazil,",1,1,5.5,7.5,1,Characidae
+131,Rummy-nose tetra,,Hemigrammus rhodostomus,2,5,3,3,3,3,75,24,27,1,"Brazil, Venezuela,",1,1,5.5,7,1,Characidae
+132,Splash tetra,,Copella arnoldi,2,5.5,3,3,2,3,70,20,28,2,"Brazil,",1,1,5.5,7,1,Lebiasinidae
+133,Serpae tetra,,Hyphessobrycon serpae,2,4.5,3,3,3,3,65,20,28,1,"Brazil, Paraguay, Argentina,",1,1,5.5,7.5,1,Characidae
+134,Silvertip tetra,,Hasemania nana,2,4,4,2,3,3,70,23,28,1,"Brazil,",1,1,6,8,1,Characidae
+135,X-ray tetra,pristella tetra,Pristella maxillaris,2,4.5,3,3,4,3,70,22,28,3,"Venezuela, The Guianas",1,1,6,8,1,Characidae
+136,Congo tetra,,Phenacogrammus interruptus,2,8,3,4,3,3,90,23,28,1,Congo Basin,2,1,6,7.5,1,Alestidae
+137,Jellybean tetra,,Ladigesia roloffi,2,3,3,4,2,3,37,22,27,1,"Sierra Leone,",2,1,6,7.5,1,Alestidae
+138,Long-fin tetra,,Brycinus longipinnis,2,12.5,2,4,2,3,190,22,26,2,Congo Basin,2,1,6,7.5,1,Alestidae
+139,Niger tetra,African Red Eyed Tetra,Arnoldichthys spilopterus,2,10,3,2,3,3,190,24,27,1,"Nigeria,",2,1,6,8,1,Alestidae
+140,Yellow-tailed Congo tetra,,Alestopetersius caudalis,2,6,2,3,2,3,75,22,26,2,Congo Basin,2,1,6,7.5,1,Alestidae
+141,Common hatchetfish,,Gasteropelecus sternicla,3,4,2,4,2,3,125,20,28,1,"Brazil,",1,1,5.5,7,1,Gasteropelecidae
+142,Marbled hatchetfish,,Carnegiella strigata,3,4,2,4,1,3,120,20,28,1,South America,1,1,5.5,7,1,Gasteropelecidae
+143,Blackwing hatchetfish,,Carnegiella marthae,3,3.5,2,4,1,3,115,20,28,1,"Venezuela, Brazil,",1,1,5.5,7,1,Gasteropelecidae
+144,Pygmy hatchetfish,,Carnegiella myersi,3,2.5,2,4,1,3,100,23,26,1,"Peru, Bolivia,",1,1,5.5,7,1,Gasteropelecidae
+145,Golden pencilfish,,Nannostomus beckfordi,2,6,2,2,2,3,70,21,27,1,"The Guianas, Brazil, Venezuela,",1,1,6,7.5,1,Lebiasinidae
+146,Hockeystick pencilfish,,Nannostomus eques,2,3.5,2,2,2,3,55,22,28,1,"Brazil, Peru, Colombia,",1,1,5,7,1,Lebiasinidae
+147,Barred pencilfish,,Nannostomus espei,2,3,2,2,2,3,55,22,28,1,"Guyana,",1,1,5.5,7,1,Lebiasinidae
+148,Dwarf pencilfish,,Nannostomus marginatus,2,2.5,2,2,2,3,45,22,28,1,"Peru, Colombia, Brazil,",1,1,5,7,1,Lebiasinidae
+149,Coral red pencilfish,,Nannostomus mortenthaleri,2,3,2,2,2,3,55,24,28,1,"Peru,",1,1,5.5,7,1,Lebiasinidae
+150,Three-lined pencilfish,,Nannostomus trifasciatus,2,3.3,2,2,2,3,55,22,28,1,South America,1,1,5.5,7,1,Lebiasinidae
+151,One-lined Pencilfish,,Nannostomus unifasciatus,2,4,2,4,2,3,65,23,28,1,"Brazil, Bolivia, Colombia,",1,1,5.5,7,1,Lebiasinidae
+152,Silver Dollar,,Metynnis argenteus,2,15,2,3,2,3,265,24,28,2,"Brazil,",1,1,6,7.5,1,Characidae
+153,Silver Dollar,,Metynnis hypsauchen,2,14,2,3,2,3,265,24,28,2,"Guyana, Brazil, Peru, Bolivia,",1,1,6,7.5,1,Characidae
+154,Red-bellied Piranha,,Pygocentrus nattereri,2,32,1,2,1,3,605,24,28,3,South America,1,1,6,7.5,1,Serrasalmidae
+155,Disk tetra,Black-barred Myleus,Myleus schomburgkii,2,40,2,4,2,3,645,23,27,1,"Venezuela, Peru, Brazil,",1,1,5.5,7,1,Serrasalmidae
+157,Hujeta gar,,Ctenolucius hujeta,3,25,1,4,1,2,210,22,28,2,"Venezuela, Colombia,",1,1,6,7.5,1,Ctenoluciidae
+158,Kissing prochilodus,flagtail Prochilodus,Semaprochilodus insignis,2,35,2,4,1,3,510,23,29,2,South America,1,1,6,7.5,1,Prochilodontidae
+159,Marbled headstander,,Abramites hypselonotus,2,14,2,4,2,3,265,20,30,2,South America,1,1,6,7.5,1,Anostomidae
+160,Banded leporinus,,Leporinus fasciatus,2,27,2,4,1,2,150,20,28,2,South America,1,1,6,7.5,1,Anostomidae
+161,Striped headstander,,Anostomus anostomus,2,19,2,4,1,3,265,20,28,2,"Peru, Brazil, Venezuela, Guyana,",1,1,6,7.5,1,Anostomidae
+162,Pink-tail chalceus,,Chalceus macrolepidotus,2,25,3,4,1,2,240,23,28,2,South America,1,1,6,7.5,1,Chalceidae
+163,Red wolf fish,,Erythrinus erythrinus,1,20,3,4,1,1,150,22,26,2,South America,1,1,6,7.5,1,Erythrinidae
+164,Red tail barracuda,,Acestrorhynchus falcatus,2,30,1,4,1,2,380,22,28,2,South America,1,1,6,7.5,1,Acestrorhynchidae
+165,Spotted headstander,,Chilodus punctatus,2,8,2,4,2,3,85,20,28,1,South America,1,1,6,7.5,1,Chilodontidae
+166,Sunshine peacock cichlid,,Aulonocara baenschi,2,16,3,2,2,2,240,25,29,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+167,Pale usisya aulonocara,Aulonocara Blue Neon,Aulonocara steveni,2,14,3,3,1,2,240,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+168,Red fin hap,,Copadichromis borleyi,2,20,3,3,2,2,300,25,29,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+169,Eureka red peacock,,Aulonocara jacobfreibergi,2,17,2,3,2,2,240,25,29,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+170,Spilo,,Champsochromis spilorhynchus,2,40,2,4,1,1,475,24,27,2,"Lake Malombe, Lake Malawi ,",2,1,7.5,8.5,1,Cichlidae
+171,Blue dolphin cichlid,lumphead cichlid,Cyrtocara moorii,2,25,1,3,2,3,250,25,29,1,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+172,Afra cichlid,dogtooth cichild,Cynotilapia afra,2,10,2,3,2,1,110,25,29,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+173,Rusty cichlid,lavender cichild,Iodotropheus sprengerae,2,10,3,2,2,2,90,25,29,1,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+174,Fuelleborn's cichlid,Blue mbuna,Labeotropheus fuelleborni,2,18,2,3,1,2,175,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+175,Electric yellow cichlid,,Labidochromis caeruleus,2,12,3,3,3,2,160,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+176,Electric Blue Hap,Electric blue cichlid,Sciaenochromis fryeri,2,18,2,2,2,2,250,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+177,Malawi eyebiter,,Dimidiochromis compressiceps,2,25,1,3,2,2,250,23,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+180,Auratus cichlid,Malawi golden cichlid,Melanochromis auratus,2,11,2,3,2,2,200,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+181,Chipokee cichlid,,Melanochromis chipokae,2,12,2,3,1,2,200,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+182,Blue johanni cichlid,Maingano,Melanochromis cyaneorhabdos,2,10,2,3,1,2,170,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+183,Pearl of Likoma,,Melanochromis joanjohnsonae,2,10,2,3,1,2,170,24,27,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+184,Aurora cichlid,,Maylandia aurora,2,12,2,3,1,2,115,24,27,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+185,Red zebra cichlid,,Metriaclima estherae,2,10,2,2,2,2,170,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+186,Cobalt blue cichlid,cobalt zebra cichlid,Maylandia callainos,2,13,2,3,2,2,170,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+187,Kenyi cichlid,,Maylandia lombardoi,2,14,2,3,2,2,200,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+188,Fusco Hap,Spothead hap,Nimbochromis fuscotaeniatus,2,25,1,4,1,2,280,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+189,Livingston's cichlid,,Nimbochromis livingstonii,2,25,1,4,1,2,280,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+190,Kaligono,Polystigma Cichlids,Nimbochromis polystigma,2,26,1,4,1,2,280,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+191,Venustus cichlid,giraffe cichild,Nimbochromis venustus,2,30,2,4,2,2,280,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+192,Red empress cichlid,,Protomelas taeniolatus,2,20,2,3,2,2,200,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+193,Bumblebee cichlid,hornet cichlid,Pseudotropheus crabro,2,15,2,4,2,2,200,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+194,Yellow-tail acei,,Pseudotropheus acei,2,12,2,3,2,2,160,24,28,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+195,Johanni cichlid,,Melanochromis johanni,2,12,2,3,2,2,160,23,27,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+196,Dwarf Mbuna,,Pseudotropheus demasoni,2,10,1,4,2,2,200,24,28,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+197,Saulosi Mbuna,,Pseudotropheus saulosi,2,10,3,3,2,2,160,23,27,2,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+198,Malawi barracuda,,Rhamphochromis cf. macrophthalmus,2,25,2,4,1,1,300,23,27,3,"Lake Malawi,",2,1,7.5,8.5,1,Cichlidae
+199,Frontosa cichild,Humphead Cichlid,Cyphotilapia frontosa,2,32,1,3,2,3,860,23,27,2,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+200,Brown Julie,Dickfeld’s Julie,Julidochromis dickfeldi,2,15,2,3,3,2,75,23,27,2,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+201,Masked Julie,,Julidochromis marlieri,2,15,2,3,2,2,110,23,27,2,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+202,Golden Julie,,Julidochromis ornatus,2,8,2,3,2,2,70,23,27,2,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+203,Sardine Cichlid,,Cyprichromis leptosoma,2,11,2,2,2,3,170,24,27,1,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+204,Lyretail cichlid,fairy cichlid,Neolamprologus brichardi,2,10,2,2,3,2,110,23,27,3,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+205,Lemon cichlid,,Neolamprologus leleupi,2,11.5,2,3,3,1,75,23,27,2,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+206,Featherfin cichlid,,Ophthalmotilapia ventralis,2,15,2,3,2,2,230,23,27,3,"Lake Tanganyika,",2,1,7.8,9,1,Cichlidae
+207,Zebra obliquidens,,Astatotilapia latifasciata,2,12.5,2,3,2,1,115,23,28,3,"Lake Kyoga, Lake Nawampas,",2,1,7,8,1,Cichlidae
+208,Allauad's haplo,,Astatoreochromis alluaudi,2,19,3,4,2,2,210,23,28,2,"Lake Victoria,",2,1,7,8,1,Cichlidae
+209,Hippo Point Salmon,,Ptyochromis sp.,2,13,2,3,1,1,115,23,28,2,"Lake Victoria,",2,1,7,8.5,1,Cichlidae
+210,Flameback cichlid,,Pundamilia nyererei,2,9,2,3,2,2,160,23,27,2,"Lake Victoria,",2,1,7,8.5,1,Cichlidae
+211,African butterfly cichlid,,Anomalochromis thomasi,2,8,3,2,3,3,95,23,27,2,"Sierra Leone, Guinea, Liberia,",2,1,6,7.5,1,Cichlidae
+212,Jewel cichlid,two-spotted jewel cichlid,Hemichromis bimaculatus,2,15,2,4,3,2,115,22,28,2,West Africa,2,1,6,7.5,1,Cichlidae
+213,Blockhead Cichlid,,Steatocranus casuarius,2,12,3,2,2,2,95,24,28,2,Congo Basin,2,1,6.5,8,1,Cichlidae
+214,Blood-red jewel cichlid,,Hemichromis lifalili,2,10,2,3,2,2,75,23,26,2,Congo Basin,2,1,6,7.5,1,Cichlidae
+215,Kribensis,,Pelvicachromis pulcher,2,10,3,2,3,2,75,24,27,1,"Nigeria, Cameroon,",2,1,6,7.5,1,Cichlidae
+216,Guenther's Mouthbrooder,,Chromidotilapia guentheri,2,15,2,3,2,2,115,24,27,2,West Africa,2,1,6,7.5,1,Cichlidae
+217,Agassiz's dwarf cichlid,,Apistogramma agassizii,2,9,2,3,2,2,75,22,29,2,"Brazil,",1,1,5.5,7,1,Cichlidae
+218,Zebra acara,,Nannacara adoketa,2,12,3,3,2,1,95,22,28,2,"Brazil,",1,1,5,6.5,1,Cichlidae
+219,Umbrella Cichlid,,Apistogramma borellii,2,6.5,2,3,2,2,70,20,26,2,"Brazil, Paraguay, Argentina,",1,1,6,7,1,Cichlidae
+220,Cockatoo cichlid,,Apistogramma cacatuoides,2,7.5,2,3,2,2,70,22,29,2,"Brazil, Peru,",1,1,6,7.5,1,Cichlidae
+221,Panda dwarf cichlid,,Apistogramma nijsseni,2,8.5,2,3,2,2,70,24,28,2,"Peru,",1,1,5,6.5,0,Cichlidae
+222,Three-Stripe Dwarf Cichlid,Three-striped Apisto,Apistogramma trifasciata,2,5.5,2,3,2,2,75,20,25,2,"Brazil, Paraguay, Argentina,",1,1,5.5,7,0,Cichlidae
+223,Two-Stripe Dwarf Cichlid,Two-striped Apisto,Apistogramma bitaeniata,2,7.5,2,3,2,2,75,22,29,2,"Peru, Colombia, Brazil,",1,1,5,6.5,0,Cichlidae
+224,Checkerboard Cichlid,Lyretail Checkerboard Cichlid,Dicrossus filamentosus,2,9,2,4,2,2,75,26,30,1,"Colombia, Venezuela, Brazil,",1,1,5,6.5,0,Cichlidae
+225,Blue ram,German ram,Mikrogeophagus ramirezi,2,6,2,3,3,2,70,27,30,1,"Colombia, Venezuela,",1,1,5.5,7,1,Cichlidae
+226,Bolivian ram,,Mikrogeophagus altispinosa,2,8,2,3,2,3,170,24,28,1,"Bolivia, Brazil,",1,1,6,7.5,0,Cichlidae
+227,Dwarf flag cichlid,,Laetacara curviceps,2,5.5,3,2,3,2,75,20,28,1,"Brazil,",1,1,6,7.5,0,Cichlidae
+228,Gold Saum,Green terror,Andinoacara rivulatus,2,30,2,4,2,2,285,20,24,3,"Peru, Ecuador,",1,1,6.5,8,0,Cichlidae
+229,Blue acara,,Andinoacara pulcher,2,15,2,2,3,2,160,22,28,2,"Trinidad and Tobago, Venezuela,",1,1,6.5,8,0,Cichlidae
+230,Threadfin acara,,Acarichthys heckelii,2,20,1,3,2,2,200,24,30,2,"Colombia, Peru, Brazil, Guyana,",1,1,6,7.5,0,Cichlidae
+231,Eartheater cichlid,,Geophagus altifrons,2,25,2,3,3,3,435,26,32,1,"Brazil,",1,1,6,7.5,0,Cichlidae
+232,Cupid cichlid,,Biotodoma cupido,2,12,1,3,2,3,200,20,30,1,"Peru, Bolivia, Guyana, Brazil,",1,1,5.5,7,0,Cichlidae
+233,Keyhole cichlid,,Cleithracara maronii,2,11,2,2,3,2,95,21,28,1,"Venezuela, The Guianas",1,1,6,7.5,0,Cichlidae
+234,Flag cichlid,Festivum cichlid,Mesonauta festivus,2,15,3,3,3,2,140,24,28,1,South America,1,1,6,7.5,0,Cichlidae
+235,Angelfish,,Pterophyllum scalare,2,15,3,4,4,2,115,24,30,2,South America,1,1,6,7.5,0,Cichlidae
+236,Altum angelfish,,Pterophyllum altum,2,18,1,4,1,2,170,26,32,2,"Colombia, Venezuela,",1,1,5.5,6.5,0,Cichlidae
+237,Roman Nose Angelfish,,Pterophyllum leopoldi,2,10,2,4,2,3,115,22,29,2,"Brazil, Guyana,",1,1,6,7.2,0,Cichlidae
+238,Discus,,Symphysodon aequifasciatus,2,20,1,4,3,3,245,26,32,1,"Peru, Colombia, Brazil,",1,1,6,7,0,Cichlidae
+240,Oscar,,Astronotus ocellatus,2,35,2,3,2,1,360,20,28,2,South America,1,1,6,7.5,0,Cichlidae
+241,Chocolate cichlid,,Hypselecara temporalis,2,30,2,2,2,2,245,25,30,1,"Peru, Colombia, Venezuela, Brazil,",1,1,6,7.5,0,Cichlidae
+242,Severum,,Heros efasciatus,2,30,2,3,2,2,245,22,29,2,"Brazil,",1,1,6,7.5,1,Cichlidae
+243,Uaru cichlid,,Uaru amphiacanthoides,2,30,1,3,1,2,245,27,30,1,"Brazil, Guyana,",1,1,6,7.5,0,Cichlidae
+244,Canara pearlspot,banded chromide,Etroplus canarensis,2,11,1,4,2,3,210,22,32,2,"India,",4,1,7,8,0,Cichlidae
+245,Green chromide,,Etroplus suratensis,2,30,1,3,1,3,550,20,30,1,"Sri Lanka,",4,1,7,8,0,Cichlidae
+246,Orange chromide,,Etroplus maculatus,2,10,1,3,1,3,210,20,28,1,"Sri Lanka, India,",4,1,7,8,0,Cichlidae
+247,Pinstripe damba cichlid,,Paretroplus menarambo,2,25,1,3,1,3,360,26,29,2,"Madagascar,",2,1,7,8.5,0,Cichlidae
+250,Silver shark,Bala shark,Balantiocheilus melanopterus,2,40,3,4,3,2,360,22,28,2,"Borneo, Sumatra,",3,1,6,7.5,0,Cyprinidae
+251,Siamese algae eater,,Crossocheilus oblongus,1,16,2,4,3,3,140,20,26,1,"Thailand, Malaysia,",3,1,6,7.5,0,Cyprinidae
+252,Flying fox,,Epalzeorhynchos kalopterus,1,16,2,4,3,1,140,20,26,2,"Thailand, Malaysia,",3,1,6.5,7.5,0,Cyprinidae
+253,Red-tailed black shark,,Epalzeorhynchos bicolor,1,12,2,4,3,1,115,20,26,2,"Thailand,",3,1,6.5,7.5,1,Cyprinidae
+254,Rainbow shark,,Epalzeorhynchos frenatum,1,15,2,4,3,1,120,20,26,2,"Thailand, Laos, Cambodia,",3,1,6.5,7.5,0,Cyprinidae
+255,Cambodian log sucker,false Siamese algae eater,Garra cambodgiensis,1,15,2,4,2,2,120,20,27,1,"Thailand, Laos, Cambodia, Vietnam,",3,1,6.5,7.5,0,Cyprinidae
+256,Chinese algae eater,,Gyrinocheilus aymonieri,1,28,2,4,1,2,175,22,26,2,"Cambodia, Laos, Vietnam,",3,1,6.5,7.5,0,Gyrinocheilidae
+257,Espei rasbora,lambchop rasbora,Trigonostigma espei,2,3.8,3,3,2,3,40,23,28,1,"Thailand, Cambodia,",3,1,6,7,1,Cyprinidae
+258,Harlequin rasbora,,Trigonostigma heteromorpha,2,5,4,2,3,3,55,22,28,1,"Thailand, Sunda Islands",3,1,6,7,1,Cyprinidae
+259,Glowlight rasbora,,Trigonostigma hengeli,2,4,3,2,2,3,45,23,28,1,"Sumatra, Borneo,",3,1,6,7,0,Cyprinidae
+260,Red-striped rasbora,,Trigonopoma pauciperforata,2,7,3,2,2,3,85,21,26,1,South East Asia,3,1,6,7,0,Cyprinidae
+261,Dwarf rasbora,,Boraras maculatus,2,2.5,2,3,2,3,25,22,28,1,"Malaysia, Thailand, Sumatra,",3,1,5,7,1,Cyprinidae
+262,Eyespot rasbora,,Brevibora dorsiocellata,2,3.5,3,3,2,3,35,20,25,1,South East Asia,3,1,6,7.5,1,Cyprinidae
+263,Brilliant rasbora,,Rasbora einthovenii,2,9,3,4,1,3,75,22,28,1,"Malaysia, Thailand, Sumatra,",3,1,6,7.5,0,Cyprinidae
+264,Clown rasbora,,Rasbora kalochroma,2,10,2,3,2,3,130,23,28,2,"Malaysia, Borneo, Sumatra,",3,1,6,7.5,0,Cyprinidae
+265,Scissortail rasbora,,Rasbora trilineata,2,14,3,3,2,3,170,22,25,1,South East Asia,3,1,6,7.5,0,Cyprinidae
+266,Volcano rasbora,,Rasbora vulcanus,2,4.5,2,2,2,3,55,23,26,1,"Sumatra,",3,1,6,7.5,1,Cyprinidae
+267,Red-tailed rasbora,,Rasbora borapetensis,2,6,4,2,2,3,70,22,26,1,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,1,Cyprinidae
+268,Pearl danio,,Danio albolineatus,2,6,3,2,3,3,70,16,25,1,South East Asia,3,1,6,7.5,0,Cyprinidae
+269,Celestial Pearl danio,,Danio margaritatus,2,2,3,2,3,3,35,22,26,1,"Myanmar,",3,1,6.5,7.5,1,Cyprinidae
+270,Bengal danio,,Devario devario,2,9,2,3,2,3,130,15,27,2,"India, Nepal, Bangladesh,",4,1,6,7.5,0,Cyprinidae
+271,Giant danio,,Devario aequipinnatus,2,15,2,3,3,3,190,22,27,3,"Pakistan, India, Bangladesh",4,1,6,7.5,0,Cyprinidae
+272,Malabar danio,,Devario malabaricus,2,13,2,2,2,3,180,18,25,2,"India,",4,1,6,7.5,0,Cyprinidae
+273,Queen danio,,Devario regina,2,8,2,2,2,3,115,20,26,1,"Thailand, Myanmar,",3,1,6,7.5,0,Cyprinidae
+274,Spotted danio,Dwarf danio,Danio nigrofasciatus,2,3.7,3,2,3,3,40,18,26,1,"Myanmar,",3,1,6,7.5,1,Cyprinidae
+275,Blue danio,,Danio kerri,2,4.5,4,2,2,3,40,20,26,1,"Thailand,",3,1,6,7.5,1,Cyprinidae
+276,Zebra danio,,Danio rerio,2,5,4,2,4,3,55,18,24,2,"Eastern India, Bangladesh,",4,1,6,7.5,1,Cyprinidae
+277,Common goldfish,gold fish,Carassius auratus,2,20,4,2,4,2,90,4,28,1,"China,",6,1,6,8,0,Cyprinidae
+279,European Bitterling,,Rhodeus amarus,2,10,2,4,1,3,130,13,22,1,Europe,7,1,6.5,8,0,Cyprinidae
+280,White Cloud Mountain minnow,,Tanichthys albonubes,2,4,4,2,4,3,45,14,22,1,"China,",6,1,6,7.5,1,Cyprinidae
+281,Red shiner,,Cyprinella lutrensis,2,9,2,3,2,2,135,14,25,2,"United States,",8,1,6.5,8,0,Cyprinidae
+283,Fathead minnow,Rosy red minnow,Pimephales promelas,1,7.5,3,2,3,3,75,10,22,1,"North America,",8,1,6.5,8,0,Cyprinidae
+284,Rainbow shiner,,Notropis chrosomus,2,8,2,3,2,3,75,10,22,1,"United States,",8,1,6,7.5,0,Cyprinidae
+285,European minnow,Common minnow,Phoxinus phoxinus,2,13,2,3,1,3,170,12,20,1,"United States,",8,1,6.5,7.5,0,Cyprinidae
+286,Southern redbelly dace,,Phoxinus erythrogaster,2,10,2,3,1,3,230,14,21,2,"United States,",8,1,6.5,7.5,0,Cyprinidae
+289,Saddle-back Loach,,Homaloptera orthogoniata,1,11,1,4,1,3,170,20,25,1,"Borneo,",3,1,6,7.5,0,Balitoridae
+290,Fork-tailed loach,,Vaillantella maassi,1,12,1,4,1,1,175,23,29,2,"Sumatra, Borneo,",3,1,6,7.5,0,Vaillantellidae
+291,Horseface loach,,Acantopsis dialuzona,1,20,2,4,2,2,210,16,24,2,"Sunda Islands, Thailand,",3,1,6,7.5,0,Cobitidae
+292,Weather Loach,dojo loach,Misgurnus anguillicaudatus,1,28,3,4,2,2,210,10,23,1,"Korea, Japan, China, Vietnam,",6,1,6,7.5,0,Cobitidae
+293,Kuhli loach,coolie loach,Pangio semicincta,1,10,2,4,2,3,105,21,26,1,"Sumatra, Malay Peninsula,",3,1,6,7.5,0,Cobitidae
+294,Java loach,Black Kuhli Loach,Pangio oblonga,1,8,3,4,2,3,95,21,26,1,"Sunda Islands, Thailand,",3,1,6,7.5,0,Cobitidae
+295,Clown loach,,Chromobotia macracanthus,1,30,2,4,2,3,285,24,30,2,"Sumatra, Borneo,",3,1,6,7.5,0,Botiidae
+296,Green tiger loach,,Syncrossus hymenophysa,1,21,2,4,1,3,150,25,30,2,"Sumatra, Borneo,",3,1,6,7.5,0,Botiidae
+297,Banded tiger loach,,Syncrossus helodes,1,30,2,4,1,3,285,24,30,2,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,0,Botiidae
+298,Redfin tiger loach,,Syncrossus berdmorei,1,24,2,4,2,3,190,21,26,2,"Myanmar,",3,1,6,7.5,0,Botiidae
+299,Dwarf botia,Dwarf Chain Loach,Ambastaia sidthimunki,1,6,2,4,2,3,75,20,30,1,"Thailand,",3,1,6,7.5,0,Botiidae
+300,Yoyo loach,,Botia almorhae,1,16,2,4,2,3,160,19,27,1,"India, Pakistan ,",4,1,6,7.5,0,Botiidae
+301,Bengal loach,,Botia dario,1,13,2,4,2,3,140,23,26,2,"India, Bangladesh, Bhutan,",4,1,6,7.5,0,Botiidae
+302,Polka-Dot Loach,,Botia kubotai,1,15,2,4,2,3,160,22,28,2,"Myanmar, Thailand,",3,1,6,7.5,0,Botiidae
+303,Gangetic loach,ladder loach,Botia rostrata,1,20,2,4,1,3,160,19,27,2,"Bangladesh, India,",3,1,6,7.5,0,Botiidae
+304,Zebra loach,,Botia striata,1,9,2,4,2,3,140,21,26,2,"India,",4,1,6,7.5,0,Botiidae
+305,Redtail loach,,Yasuhikotakia modesta,1,25,2,4,2,3,285,23,28,2,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,0,Botiidae
+306,Skunk loach,,Yasuhikotakia morleti,1,8.5,2,4,2,3,140,23,28,2,"Laos, Thailand, Cambodia,",3,1,6,7.5,0,Botiidae
+307,Borneo hillstream loach,Borneo sucker,Gastromyzon ctenocephalus,1,4,2,4,2,2,75,20,24,1,"Borneo ,",3,1,6,7.5,0,Gastromyzontidae
+308,Tiger hillstream loach,,Sewellia lineolata,1,6.5,2,3,2,2,95,20,24,1,"Vietnam,",3,1,6,7.5,0,Gastromyzontidae
+309,Butterfly Loach,Butterfly hillstream loach,Beaufortia kweichowensis,1,7.5,2,4,2,2,95,16,24,1,"China,",6,1,6,7.5,0,Gastromyzontidae
+310,Guppy,millionfish,Poecilia reticulata,2,6,4,1,4,2,50,18,28,1,"Venezuela, The Guianas,",1,1,6.8,7.8,1,Poeciliidae
+311,Endler's livebearer,endler guppy,Poecilia wingei,2,4,4,1,4,2,20,22,30,1,"Venezuela,",1,1,6.5,7.5,1,Poeciliidae
+287,Melanzona Guppy,,Poecilia parae,2,5,2,1,1,2,55,24,28,1,"Brazil, The Guianas,",1,1,6.5,7.5,0,Poeciliidae
+312,Black molly,,Poecilia sphenops,2,12,3,1,4,2,90,21,28,2,"Venezuela, Colombia, Mexico,",1,1,7,8,0,Poeciliidae
+313,Sailfin molly,,Poecilia latipinna,2,12,3,1,4,2,90,21,26,2,"Mexico,",8,1,7,8,0,Poeciliidae
+314,Dalmatian molly,,Poecilia latipinna,2,12,3,1,3,2,90,21,26,2,"United States, Mexico,",8,1,7,8,0,Poeciliidae
+316,Southern platy,,Xiphophorus maculatus,2,7,4,1,4,2,55,20,26,1,"Mexico, Central America","8, 5",1,6.8,8,0,Poeciliidae
+317,Variable platy,,Xiphophorus variatus,2,7,4,1,4,2,55,20,26,1,"Mexico,",8,1,6.8,8,0,Poeciliidae
+318,Green swordtail,,Xiphophorus hellerii,2,15,4,1,4,2,90,20,28,1,"Mexico, Central-America,",8,1,7,8,0,Poeciliidae
+319,Largescale four-eyed fish,,Anableps anableps,3,30,1,4,1,3,265,25,31,3,"Brazil, Venezuela, The Guianas",1,1,7,8,1,Anablepidae
+320,Pike topminnow,,Belonesox belizanus,3,20,2,1,1,2,165,23,28,2,"Mexico, Central America","8, 5",1,6.5,7.5,0,Poeciliidae
+321,Cuban limia,Cuban molly,Limia vittata,2,6,2,2,1,2,70,23,28,1,"Cuba,",5,1,7,8,0,Poeciliidae
+322,Knife livebearer,,Alfaro cultratus,2,7.6,1,2,2,2,120,24,28,2,"Costa Rica, Nicaragua, Panama,",5,1,6.5,7.5,0,Poeciliidae
+323,Least killifish,,Heterandria formosa,2,3.5,3,2,2,2,20,20,26,1,"United States,",8,1,6.5,7.5,1,Poeciliidae
+324,Tanganyika killifish,,Lamprichthys tanganicanus,2,14,1,4,1,2,150,23,25,1,"Lake Tanganyika,",2,1,7,8,0,Poeciliidae
+325,Norman's lampeye,,Poropanchax normani,3,4,2,3,2,2,75,22,26,1,West Africa,2,1,6.5,7.5,1,Poeciliidae
+326,Celebes halfbeak,,Nomorhamphus liemi,3,9,1,3,1,3,150,20,25,2,"Sulawesi,",3,1,6,7.5,0,Zenarchopteridae
+327,Wrestling halfbeak,,Dermogenys pusilla,3,7,2,3,2,2,95,24,28,2,Southeast Asia,3,1,6.5,7.5,0,Zenarchopteridae
+328,Forest halfbeak,,Hemirhamphodon pogonognathus,3,9,1,3,1,2,130,24,28,1,"Thailand, Sunda Islands",3,1,6,7.5,0,Zenarchopteridae
+329,Steel Blue Killifish,,Fundulopanchax gardneri,2,5.5,2,3,2,2,80,21,26,2,"Nigeria, Cameroon,",2,1,6.5,7.5,0,Nothobranchiidae
+330,Clown Killifish,Banded Panchax,Epiplatys annulatus,2,3.5,2,2,3,2,55,20,26,1,"Guinea, Sierra Leone, Liberia,",2,1,6.5,7.5,1,Nothobranchiidae
+331,Bluefin Notho,,Nothobranchius rachovii,2,6,3,3,2,2,80,20,24,2,"Mozambique,",2,1,6.5,7.5,0,Nothobranchiidae
+332,Striped panchax,,Aplocheilus lineatus,3,11,3,3,2,3,115,22,25,2,"India, Sri Lanka,",4,1,6,7.5,0,Aplocheilidae
+333,American Flagfish,,Jordanella floridae,2,5.5,3,3,2,2,70,17,23,2,"Florida,",8,1,7,8,0,Cyprinodontidae
+334,Argentine Pearl Killifish,,Austrolebias nigripinnis,2,7,2,3,2,2,70,18,24,1,"Argentina, Uruguay,",1,1,6.5,7.5,0,Rivulidae
+335,Golden Toppminnow,,Fundulus chrysotus,2,7.5,3,4,2,3,85,15,24,1,United States,8,1,6.5,8,0,Fundulidae
+336,Northern Studfish,,Fundulus catenatus,2,15,1,4,1,2,140,15,25,2,United States,8,1,6.5,8,0,Fundulidae
+337,Red-seam Killifish,Ogun Killifish,Aphyosemion calliurum,2,5.5,3,2,2,2,75,24,28,1,"Nigeria,",2,1,6,7.5,0,Aplocheilidae
+338,Arabian toothcarp,Arabian Killifish,Aphanius dispar,2,7,1,4,1,2,115,15,30,2,Northeast Africa,2,1,6.5,7.5,0,Cyprinodontidae
+339,Dwarf gourami,,Trichogaster lalius,2,7.5,2,3,3,2,60,22,27,1,"Pakistan, India, Bangladesh,",4,1,6,7.5,0,Osphronemidae
+340,Paradise fish,,Macropodus opercularis,2,8,2,3,2,2,95,10,22,2,"China, Vietnam, Laos,",3,1,6.5,7.5,0,Osphronemidae
+341,Pygmy gourami,Sparkling gourami,Trichopsis pumila,2,4,2,3,2,2,55,22,28,1,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,1,Osphronemidae
+342,Moonlight gourami,,Trichopodus microlepis,2,15,2,4,2,2,115,25,30,2,"Thailand, Cambodia, Vietnam,",3,1,6,7.5,0,Osphronemidae
+343,Snakeskin gourami,,Trichopodus pectoralis,2,25,2,3,2,2,230,22,30,1,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,0,Osphronemidae
+344,Betta,Siamese fighting fish,Betta splendens,2,7.5,4,4,4,1,25,22,30,2,"Thailand,",3,1,6,7.5,1,Osphronemidae
+345,Malay combtail gourami,Java combtail,Belontia hasselti,2,20,2,4,1,2,170,21,26,2,"Thailand, Sunda Islands",3,1,6,7.5,0,Osphronemidae
+346,Slender betta,,Betta bellica,2,9,2,4,2,1,75,25,30,2,"Sumatra, Malay Peninsula",3,1,6,7,0,Osphronemidae
+347,Scarlet betta,,Betta coccina,2,4,2,4,1,1,40,22,30,2,"Sumatra, Malay Peninsula",3,1,6,7,0,Osphronemidae
+348,Crescent betta,,Betta imbellis,2,6,2,4,1,1,45,20,28,2,"Malaysia, Thailand, Sumatra,",3,1,6,7.5,1,Osphronemidae
+349,Toba betta,,Betta rubra,2,4,2,4,1,1,40,22,27,2,"Sumatra,",3,1,6,7.5,0,Osphronemidae
+350,Giant Pikehead,,Luciocephalus pulcher,2,20,1,4,1,1,135,22,26,3,"Thailand, Malaysia, Indonesia,",3,1,6,7.5,0,Osphronemidae
+351,Chocolate gourami,,Sphaerichthys osphromenoides,2,5,2,2,3,2,65,26,31,1,"Sumatra, Borneo,",3,1,5.5,7,0,Osphronemidae
+352,Pearl gourami,,Trichopodus leerii,2,12,3,2,2,2,115,24,30,1,"Malaysia,Thailand, Sumatra",3,1,6,7.5,0,Osphronemidae
+353,Three spot gourami,,Trichopodus trichopterus,2,13,2,2,2,2,115,24,30,2,"China, South East Asia",3,1,6,7.5,0,Osphronemidae
+354,Croaking gourami,,Trichopsis vittata,2,7,3,2,2,2,95,22,28,1,South East Asia,3,1,6,7.5,0,Osphronemidae
+355,Giant gourami,,Osphronemus goramy,2,70,2,4,1,2,475,20,30,2,South East Asia,3,1,6.5,7.5,0,Osphronemidae
+356,Kissing gourami,,Helostoma temminckii,2,25,2,4,1,2,135,22,30,2,"Java, Sumatra, Borneo ,",3,1,6,7.5,0,Helostomatidae
+357,Climbing perch,,Anabas testudineus,1,20,2,4,1,1,150,15,30,3,"South Asia, South East Asia","4, 3",1,6,7.5,0,Anabantidae
+358,Leopard bush fish,,Ctenopoma acutirostre,2,16,3,4,1,2,150,20,28,2,Congo Basin,2,1,6,7.5,0,Anabantidae
+359,African leaf fish,,Polycentropsis abbreviata,2,8,2,4,1,1,75,26,31,2,"Cameroon, Benin, Gabon, Nigeria,",2,1,6,7.5,0,Nandidae
+360,Bornean leaf fish,,Nandus nebulosus,2,12,2,4,1,2,95,22,26,2,"Thailand, Sunda Islands",3,1,6,7.5,0,Nandidae
+361,Malayan leaf fish,,Pristolepis fasciata,2,20,1,3,1,1,150,23,28,2,"Thailand,",3,1,6,7.5,0,Pristolepididae
+362,Forest snakehead,,Channa lucius,1,40,2,4,1,1,265,20,30,3,South East Asia,3,1,6,7.5,0,Channidae
+363,Dwarf snakehead,,Channa gachua,1,20,2,3,1,1,150,18,28,3,"South Asia, South East Asia","4, 3",1,6,7.5,0,Channidae
+364,Ocellated snakehead,,Channa pleurophthalma,2,40,2,4,1,1,265,24,28,2,"Sumatra, Borneo,",3,1,6,7.5,0,Channidae
+365,African snakehead,,Parachanna obscura,2,45,2,4,1,1,280,26,30,3,West Africa,2,1,6,7.5,0,Channidae
+366,Empire gudgeon,,Hypseleotris compressa,2,12,2,4,1,2,100,20,35,2,"Australia, New Guinea,",9,1,6.5,7.5,0,Eleotridae
+367,Purple spotted gudgeon,,Mogurnda mogurnda,1,20,2,3,1,1,150,20,26,2,"Australia, New Guinea,",9,1,6.5,7.5,0,Eleotridae
+368,Peacock gudgeon,Peacock goby,Tateurndina ocellicauda,2,7.5,2,3,1,2,75,22,26,1,"New Guinea,",3,1,6,7.5,0,Eleotridae
+369,Black toraja goby,Sarasin’s goby,Mugilogobius sarasinorum,1,8,1,4,1,2,80,26,28,2,"Sulawesi,",3,1,6.5,7.5,0,Gobiidae
+370,Bumblebee goby,,Brachygobius doriae,1,4,1,4,2,2,45,22,28,2,"Borneo,",3,1,6.5,7.5,1,Gobiidae
+371,Knight goby,,Stigmatogobius sadanundio,1,9,1,4,1,3,80,20,26,2,"South Asia, South East Asia","4, 3",1,6.5,7.5,0,Gobiidae
+372,Rainbow stiphodon,,Stiphodon ornatus,1,6.5,1,4,2,2,50,20,26,2,"Sumatra,",3,1,6.5,7.5,0,Oxudercidae
+373,Cobalt blue goby,,Stiphodon semoni,1,4.5,1,4,2,2,50,20,26,2,"Sumatra, New Guinea ,",3,1,6.5,7.5,1,Gobiidae
+375,Marbled goby,,Oxyeleotris marmorata,1,60,2,4,1,1,550,22,28,3,"South Asia,",4,1,6,7.5,0,Butidae
+383,Pumpkinseed Sunfish,,Lepomis gibbosus,2,25,3,4,2,1,265,5,23,3,"United States, Canada,",8,1,6.5,8.5,0,Centrarchidae
+385,Bluegill Sunfish,,Lepomis macrochirus,2,35,3,4,2,1,265,5,23,3,"United States, Canada,",8,1,6.5,8.5,0,Centrarchidae
+392,Ornate bichir,,Polypterus ornatipinnis,1,55,3,4,1,1,650,25,28,2,West Africa,2,1,6,8,1,Polypteridae
+393,West African Bichir,Retropinnis bichir,Polypterus retropinnis,1,35,3,4,1,1,200,25,28,2,"West Africa, Congo Basin",2,1,6,8,0,Polypteridae
+394,Barred bichir,,Polypterus delhezi,1,35,3,4,2,1,200,24,30,2,Congo Basin,2,1,6,8,0,Polypteridae
+395,Ropefish,Reedfish,Erpetoichthys calabaricus,1,37,3,4,1,1,540,23,30,2,"Congo Basin, Angola, Nigeria,",2,1,6,8,0,Polypteridae
+396,Hingemouth,,Phractolaemus ansorgii,1,25,2,4,1,1,135,23,28,2,Congo Basin,2,1,6,7.5,0,Phractolaemidae
+397,Blunt-jawed elephantnose,Worm-Jawed Mormyrid,Campylomormyrus tamandua,2,40,1,4,1,2,650,23,28,2,West Africa,2,1,6,7.5,0,Mormyridae
+398,Peter’s elephantnose,,Gnathonemus petersii,2,22.5,1,4,2,2,250,23,28,2,Central Africa,2,1,6.5,7.5,0,Mormyridae
+399,African butterflyfish,,Pantodon buchholzi,3,12,2,3,1,2,95,23,30,2,Central Africa,2,1,6,7.5,0,Pantodontidae
+400,African knifefish,,Xenomystus nigri,2,30,3,4,2,1,200,23,28,2,West Africa,2,1,6,7.5,0,Notopteridae
+401,Clown knifefish,,Chitala ornata,1,80,2,3,1,1,475,20,28,2,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,1,Notopteridae
+402,Freshwater pipefish,,Doryichthys martensii,1,15,1,4,1,2,120,24,28,2,"Thailand, Sunda Islands",3,1,6,7.5,0,Syngnathidae
+403,African freshwater pipefish,,Enneacampus ansorgii,1,14,2,4,1,2,120,24,28,2,West Africa,2,1,6,7.5,0,Syngnathidae
+404,Peacock Spiny Eel,Spotfinned spiny eel,Macrognathus siamensis,1,30,2,4,1,1,265,24,28,2,"Sumatra, Malaysia, Thailand,",3,1,6,7.5,0,Mastacembelidae
+405,Half-banded spiny eel,Zig Zag Eel,Macrognathus circumcinctus,1,20,2,4,1,1,215,24,27,2,"Sumatra, Malaysia, Thailand,",3,1,6,7.5,0,Mastacembelidae
+406,Lesser spiny eel,,Macrognathus aculeatus,1,38,2,4,1,1,320,23,28,2,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,0,Mastacembelidae
+407,Freshwater sole,,Brachirus panoides,1,20,1,4,1,1,208,23,28,1,"Malay Peninsula, Thailand,",3,1,6,7.5,0,Soleidae
+408,Freshwater needlefish,,Xenentodon cancila,2,35,1,4,1,3,320,19,30,2,"South Asia, Thailand,","4, 3",1,6.5,7.5,0,Belonidae
+409,Javanese ricefish,,Oryzias javanicus,2,3.5,2,3,2,3,40,24,29,1,"Thailand, Sunda Islands",3,1,6,7.5,1,Adrianichthyidae
+410,Daisy's Ricefish,,Oryzias woworae,2,3,2,2,2,3,35,23,27,1,"Muna Island,",3,1,7,8,1,Adrianichthyidae
+411,Indian glassy fish,,Parambassis ranga,2,8,2,3,2,3,75,20,30,1,"South Asia, South East Asia","4, 3",1,6,7.5,0,Ambassidae
+412,Amazon leaf fish,,Monocirrhus polyacanthus,2,9,2,4,1,1,115,23,29,2,South America,1,1,5,6.5,0,Polycentridae
+413,Indonesian tigerfish,,Datnioides microlepis,2,50,1,4,1,1,680,20,28,2,"Malaysia, Sumatra, Borneo,",3,1,6.5,7.5,1,Datnioididae
+417,Green spotted puffer,,Dichotomyctere nigroviridis,2,15,1,4,1,1,120,24,28,2,"South Asia, South East Asia","4, 3",1,7.5,8.5,0,Tetraodontidae
+418,Humpback Puffer,,Pao palembangensis,1,20,2,4,2,1,120,24,28,3,South East Asia,3,1,6.5,7.5,0,Tetraodontidae
+419,Red-tail dwarf puffer,Red-tailed Redeye Puffer,Carinotetraodon irrubesco,2,4.5,1,4,1,1,65,22,28,1,"Sumatra, Borneo,",3,1,6.5,7.5,0,Tetraodontidae
+420,Golden puffer,Bronze Puffer,Auriglobus modestus,2,11,2,4,2,1,85,23,28,2,"Borneo,",3,1,6,7.5,0,Tetraodontidae
+421,Figure Eight Puffer,,Tetraodon biocellatus,2,8,2,4,2,2,75,22,26,2,"Cambodia, Malaysia, Borneo,",3,1,6.5,7.5,0,Tetraodontidae
+422,Dwarf pufferfish,Pea puffer,Carinotetraodon travancoricus,2,2.9,2,3,3,2,55,22,28,2,"India,",4,1,6.5,7.5,1,Tetraodontidae
+423,Congo pufferfish,,Tetraodon miurus,1,15,1,4,1,1,100,24,28,3,Congo Basin,2,1,6,7.5,0,Tetraodontidae
+424,Amazon puffer,,Colomesus asellus,2,12,1,4,2,3,100,22,28,2,"Brazil, Colombia, Peru, Ecuador,",1,1,6,7.5,0,Tetraodontidae
+425,Black devil stingray,,Potamotrygon leopoldi,1,60,1,4,1,1,1650,20,29,3,"Brazil,",1,1,6,7.5,1,Potamotrygonidae
+426,Black ghost knifefish,,Apteronotus albifrons,2,45,1,4,2,1,320,24,28,2,South America,1,1,6,8,0,Apteronotidae
+427,Brown ghost knifefish,,Apteronotus leptorhynchus,2,40,1,4,1,1,320,24,29,2,"Colombia, Venezuela,",1,1,6.5,7.5,1,Apteronotidae
+428,Glass knifefish,,Eigenmannia virescens,1,45,1,4,1,1,320,23,28,2,South America,1,1,6,7.5,0,Sternopygidae
+429,Freshwater blenny,,Salaria fluviatilis,1,15,1,4,1,1,95,12,20,2,"Europe, North Africa","7, 2",1,7,8,0,Blenniidae
+430,Brook stickleback,,Culaea inconstans,2,4.5,1,4,1,1,75,10,20,3,"United States, Canada,",8,1,6.5,8,1,Gasterosteidae
+431,European Perch,,Perca fluviatilis,2,50,2,3,1,1,230,10,22,3,Europe,7,1,6.5,8,1,Percidae
+432,Banded darter,,Etheostoma zonale,1,7.8,1,4,1,1,100,15,21,1,United States,8,1,6.5,8,1,Percidae
+433,Gilt darter,,Percina evides,1,9,1,4,1,1,110,15,21,1,United States,8,1,6.5,7.5,0,Percidae
+434,Orangethroat darter,,Etheostoma spectabile,1,7,1,4,1,1,95,15,20,1,United States,8,1,6,8,0,Percidae
+435,Rainbow darter,,Etheostoma caeruleum,1,7,2,3,1,1,95,10,18,1,United States,8,1,6.5,8,0,Percidae
+437,Red rainbowfish,,Glossolepis incisus,2,14,3,3,3,3,130,22,25,1,"New Guinea,",3,1,7,8.5,0,Melanotaeniidae
+438,Lake Wanam rainbowfish,Emerald Rainbowfish,Glossolepis wanamensis,2,10,2,4,2,3,95,25,30,1,"New Guinea,",3,1,7,8,0,Melanotaeniidae
+439,Threadfin rainbowfish,,Iriatherina werneri,2,4,2,4,2,3,50,22,30,1,"New Guinea, Australia,","3, 9",1,6,7.5,0,Melanotaeniidae
+440,New Guinea rainbowfish,,Melanotaenia affinis,2,12,3,3,3,3,115,20,30,1,"New Guinea,",3,1,7,8,0,Melanotaeniidae
+441,Western rainbowfish,,Melanotaenia australis,2,12,2,3,1,3,115,22,27,1,"Australia,",9,1,6.5,8,0,Melanotaeniidae
+442,Boeseman's rainbowfish,,Melanotaenia boesemani,2,11,2,3,2,3,115,27,30,1,"New Guinea,",3,1,7,8,0,Melanotaeniidae
+443,Duboulayi's rainbowfish,crimson-spotted rainbowfish,Melanotaenia duboulayi,2,12,2,3,2,3,115,18,28,1,"Australia,",9,1,7,8,0,Melanotaeniidae
+444,Australian rainbowfish,,Melanotaenia fluviatilis,2,11,2,3,2,3,115,20,25,1,"Australia,",9,1,6.5,8,0,Melanotaeniidae
+445,Lake Tebera rainbowfish,,Melanotaenia herbertaxelrodi,2,9,2,3,2,3,95,20,26,1,"New Guinea,",3,1,7,8,0,Melanotaeniidae
+446,Lake Kutubu rainbowfish,Turquoise Rainbowfish,Melanotaenia lacustris,2,11,2,3,2,3,110,20,25,1,"New Guinea,",3,1,7,8,0,Melanotaeniidae
+447,Lake Kurumoi rainbowfish,Sunset Dwarf Rainbowfish,Melanotaenia parva,2,8,2,3,2,3,110,22,26,1,"New Guinea,",3,1,7,8,0,Melanotaeniidae
+448,Neon rainbowfish,,Melanotaenia praecox,2,8,2,3,2,3,110,23,28,1,"New Guinea,",3,1,6.5,7.5,0,Melanotaeniidae
+449,Eastern rainbowfish,,Melanotaenia splendida splendida,2,15,2,3,1,3,190,24,29,1,"Australia,",9,1,6.5,8,0,Melanotaeniidae
+450,Banded rainbowfish,,Melanotaenia trifasciata,2,15,3,3,2,3,190,24,29,1,"Australia,",9,1,6.5,8,0,Melanotaeniidae
+451,Celebes rainbow,,Marosatherina ladigesi,2,8,1,3,2,3,95,22,28,1,"Sulawesi,",9,1,7,8,0,Melanotaeniidae
+452,Forktail blue-eye,,Pseudomugil furcatus,2,5.5,2,3,2,3,85,24,28,1,"New Guinea,",3,1,6,7.5,0,Pseudomugilidae
+453,Spotted blue-eye,,Pseudomugil gertrudae,2,3.8,2,2,2,3,65,21,28,1,"Australia, Aru Islands,",9,1,6,7.5,0,Pseudomugilidae
+454,Pacific blue-eye,,Pseudomugil signifer,2,7,2,3,2,3,95,20,26,1,"Australia,",9,1,6.5,8,0,Pseudomugilidae
+455,Delicate blue-eye,,Pseudomugil tenellus,2,5.5,2,3,2,3,75,25,32,1,"Australia, New Guinea,","3, 9",1,6,7.5,0,Pseudomugilidae
+456,Madagascar rainbowfish,,Bedotia madagascariensis,2,8.5,2,3,2,3,170,23,32,1,"Madagascar,",2,1,6.5,7.5,0,Bedotiidae
+457,Tiger barb,Sumatra barb,Puntigrus tetrazona,2,7,4,3,4,3,75,20,26,2,"Sumatra,",3,1,6,8,1,Cyprinidae
+458,Cherry barb,,Puntius titteya,2,5,4,2,4,3,75,22,27,1,"Sri Lanka,",4,1,6,8,0,Cyprinidae
+459,Mosquito rasbora,Chilli rasbora,Boraras brigittae,2,2,2,2,2,3,25,22,28,1,"Borneo,",3,1,5,7,1,Cyprinidae
+460,Medaka,"Japanese rice fish, Japanese ricefish",Oryzias latipes,2,3.5,4,2,2,3,35,16,22,1,"Japan, Vietnam, China, Korea,","6, 3",1,6.5,7.5,1,Adrianichthyidae
+461,Midas Cichlid,,Amphilophus citrinellus,2,35,1,3,1,1,300,21,26,3,"Nicaragua, Costa Rica,",5,1,7,8,0,Cichlidae
+58,Convict Cichlid,,Amatitlania nigrofasciata,2,15,3,2,3,2,95,24,28,3,Central America,5,1,6.5,8,0,Cichlidae
+62,Vaillant's Chocolate Gourami,,Sphaerichthys vaillanti,2,5.5,3,3,2,3,75,21,25,1,"Borneo,",3,1,5,6.5,0,Osphronemidae
+119,Paradise Threadfin,,Polynemus paradiseus,1,25,1,4,1,2,285,24,28,2,"South Asia, South East Asia","4, 3",1,6.5,8,0,Polynemidae
+156,Vampire Tetra,sabre tooth tetra,Hydrocyon scomberoides,2,30,1,4,1,2,700,24,28,2,"Brazil, Bolivia, Peru, Ecuador,",1,1,5,7.5,0,Alestidae
+462,Redhead Cichlid,,Vieja melanurus,2,37,2,4,1,2,285,25,28,1,"Mexico, Belize, Guatemala,",1,1,6.5,8,0,Cichlidae
+248,Sturgeon Catfish,Kite Pleco,Lamontichthys filamentosus,1,16,1,4,2,2,135,22,30,1,"Brazil, Bolivia, Peru, Ecuador,",1,1,6,7.5,0,Loricariidae
+249,Redhook,Silver dollar,Myloplus rubripinnis,2,25,2,4,3,3,265,23,27,1,South America,1,1,5.5,7.5,0,Serrasalmidae
+278,Rainbow Cichlid,,Herotilapia multispinosa,2,16,3,3,3,2,100,22,28,1,"Honduras, Nicaragua, Costa Rica,",5,1,7,8,0,Cichlidae
+55,Yellow Kribensis,,Pelvicachromis humilis,2,12.5,3,3,2,2,115,24,27,2,"Sierra Leone, Liberia, Guinea,",2,1,6,7.5,0,Cichlidae
+282,Western Mosquitofish,,Gambusia affinis,2,7.5,3,1,2,2,25,18,27,3,"United States, Mexico,",8,1,6,8,0,Poeciliidae
+288,Blood Parrot Cichlid,,A. citrinellus x V. synspilum,2,20,3,4,3,1,120,22,28,2,"no natural occurrence,",A,1,6.5,7.5,0,Cichlidae
+315,Orange Hatchet Danio,,Laubuka dadiburjori ,2,3,3,2,2,3,50,20,24,1,India,4,1,6,7.5,0,Cyprinidae
+374,Flowerhorn cichlid,,Amphilophus hybrid,2,40,3,3,2,1,340,25,31,3,"no natural occurrence,",A,1,6.5,7.8,0,Cichlidae
+1,Brown-Point Shield Skin,,Aspidoras fuscoguttatus,1,3.8,2,4,1,3,50,22,25,1,"Brazil, Peru,",1,1,6,7.2,0,Callichthyidae
+2,Aspidoras Cory-Cat,,Aspidoras raimundi,1,4.5,2,4,1,3,55,20,25,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+3,Loach catfish,,Aspidoras rochai,1,4.4,2,4,1,3,55,21,25,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+4,Sixray cory,,Aspidoras pauciradiatus,1,3.5,2,3,1,3,50,21,27,1,"Brazil,",1,1,5.5,7.2,1,Callichthyidae
+5,Giant Brochis,Britski's catfish,Brochis britskii,1,9,2,4,2,3,150,21,26,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+6,Emerald catfish,,Corydoras splendens ,1,8,2,4,2,3,150,21,28,1,"Brazil, Peru, Ecuador, Colombia,",1,1,6.5,7.5,0,Callichthyidae
+7,Hognosed brochis,,Brochis multiradiatus,1,9,2,4,2,3,150,21,26,1,"Ecuador, Peru,",1,1,6.5,7.5,0,Callichthyidae
+8,Adolfo's cory,,Corydoras adolfoi,1,6,3,3,3,3,75,21,26,1,"Brazil, Colombia,",1,1,6,7.2,0,Callichthyidae
+9,Banded cory,,Scleromystax barbatus,1,10,2,3,2,3,150,19,24,2,"Brazil,",1,1,6.5,7.8,0,Callichthyidae
+10,Masked cory,bandit cory,Corydoras metae,1,5,3,3,3,3,55,21,26,1,"Colombia, Venezuela,",1,1,6,7.5,0,Callichthyidae
+11,Barred-tail cory,,Corydoras cochui,1,3.5,2,4,2,3,50,21,28,1,"Brazil,",1,1,6,7.5,1,Callichthyidae
+12,Blackstripe cory,,Corydoras bondi,1,5,2,4,1,3,55,21,26,1,The Guianas,1,1,6,7.5,0,Callichthyidae
+13,Blacktop cory,,Corydoras acutus,1,4.4,2,4,2,3,50,22,28,1,"Brazil, Peru, Ecuador, Bolivia,",1,1,6,7.5,0,Callichthyidae
+14,Blue cory,,Corydoras nattereri,1,6.5,2,3,2,3,75,20,23,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+15,Spotted cory,,Corydoras melanistius,1,5.5,2,3,2,3,60,22,26,1,The Guianas,1,1,6,7.5,0,Callichthyidae
+16,Bronze cory,Fairy cory,Corydoras aeneus,1,7.5,3,3,4,3,75,21,27,1,South America,1,1,6,7.5,0,Callichthyidae
+17,Fairy cory,Caracha,Corydoras atropersonatus,1,5,3,3,3,3,60,21,27,1,"Ecuador, Peru,",1,1,6,7.5,0,Callichthyidae
+18,Ehrhardt's cory,,Corydoras ehrhardti,1,5,3,3,2,3,60,19,25,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+19,Evelyn's cory,,Corydoras evelynae,1,4,2,4,2,3,55,22,26,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+20,Dirty Bandit Cory,Loxozonus cory,Corydoras loxozonus,1,5,2,3,1,3,60,21,24,1,"Colombia,",1,1,6,7.5,0,Callichthyidae
+21,Nain dwarf cory,,Corydoras nanus,1,4.5,2,4,1,3,60,22,26,1,The Guianas,1,1,6,7.5,0,Callichthyidae
+22,Long nosed arched cory,,Corydoras narcissus,1,7,2,4,1,3,115,23,25,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+23,Dwarf cory,,Corydoras hastatus,1,3.2,3,3,2,3,45,20,26,1,"Bolivia, Argentina, Paraguay,",1,1,6,7.5,1,Callichthyidae
+24,Elegant cory,,Corydoras elegans,1,5.4,4,3,3,3,60,20,26,1,"Peru, Ecuador, Brazil,",1,1,6,7.5,0,Callichthyidae
+25,False network catfish,,Corydoras sodalis,1,5.5,2,3,2,3,60,22,26,1,"Peru, Brazil,",1,1,6,7.5,0,Callichthyidae
+26,Blackfin Cory,Peruvian Freckled Cory,Corydoras leucomelas,1,4.5,2,4,1,3,60,23,26,1,"Peru,",1,1,6,7.5,0,Callichthyidae
+27,Gold laser cory,Elongate Bronze Cory,Corydoras melanotaenia,1,6,2,3,2,3,65,20,23,1,"Colombia,",1,1,6,7.5,0,Callichthyidae
+28,Guapore cory,,Corydoras guapore,1,5,3,4,2,3,60,22,28,1,"Bolivia, Brazil,",1,1,6,7.5,0,Callichthyidae
+29,Mosaic cory,reticulated cory,Corydoras haraldschultzi,1,7,2,3,2,3,75,24,28,1,"Bolivia, Brazil,",1,1,6,7.5,0,Callichthyidae
+30,Panda cory,,Corydoras panda,1,5,3,3,3,3,55,22,25,1,"Peru,",1,1,6,7.5,0,Callichthyidae
+31,Pastaza cory,,Corydoras pastazensis,1,7,2,4,1,3,85,22,28,1,"Ecuador, Peru,",1,1,6,7.5,0,Callichthyidae
+32,Peppered cory,salt and pepper catfish,Corydoras paleatus,1,7,3,3,3,3,80,22,26,1,"Uruguay, Paraguay, Argentina,",1,1,6,7.5,0,Callichthyidae
+33,Pink cory,,Corydoras axelrodi,1,5,3,3,2,3,60,22,26,1,"Colombia,",1,1,6,7.5,0,Callichthyidae
+34,Pygmy cory,,Corydoras pygmaeus,1,3.3,2,3,2,3,50,22,26,1,"Brazil,",1,1,6,7.5,1,Callichthyidae
+35,Sailfin cory,,Scleromystax macropterus,1,9,2,4,1,3,165,18,21,2,"Brazil, Paraguay,",1,1,6,7.5,0,Callichthyidae
+36,Salt and pepper cory,Salt and pepper cory,Corydoras habrosus,1,3.5,3,3,2,3,55,20,26,1,"Colombia, Venezuela,",1,1,6,7.5,1,Callichthyidae
+37,Schwartz's catfish,,Corydoras schwartzi,1,7,1,3,2,3,75,22,26,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+38,Spotted cory,longnose cory,Corydoras ambiacus,1,6.5,2,4,1,3,75,21,27,1,"Peru,",1,1,6,7.5,0,Callichthyidae
+39,Sterba's cory,,Corydoras sterbai,1,6.5,2,2,3,3,75,24,28,1,"Bolivia, Brazil,",1,1,6,7.5,0,Callichthyidae
+40,Sychr's catfish,,Corydoras sychri,1,4.3,2,4,1,3,60,24,27,1,"Peru,",1,1,6,7.5,0,Callichthyidae
+41,Tailspot Cory,,Corydoras caudimaculatus,1,5,3,3,3,3,75,20,27,1,"Bolivia, Brazil,",1,1,6,7.5,0,Callichthyidae
+42,Threestripe cory,leopard catfish,Corydoras trilineatus,1,5.5,2,2,3,3,60,22,27,1,"Colombia, Peru, Brazil,",1,1,6,7.5,0,Callichthyidae
+43,Xingu cory,,Corydoras xinguensis,1,5,3,4,2,3,70,22,27,1,"Brazil,",1,1,6,7.5,0,Callichthyidae
+44,Julii cory,leopard cory,Corydoras julii,1,5.5,2,3,1,3,75,20,26,1,"French Guiana, Brazil,",1,1,6,7.5,0,Callichthyidae
+45,Flagtail catfish,,Dianema urostriatum,1,12.5,2,4,2,2,150,25,28,1,"Brazil,",1,1,6,8,0,Callichthyidae
+46,Cascarudo,,Callichthys callichthys,1,20,2,4,1,2,240,19,27,2,South America,1,1,6,8,0,Callichthyidae
+47,Spotted hoplo,,Megalechis thoracata,1,15,1,3,3,2,150,18,28,1,"Venezuela, The Guianas, Colombia,",1,1,6,8,0,Callichthyidae
+48,Bristlenose pleco,bushynose pleco,Ancistrus sp.,1,12.5,2,2,4,1,75,21,26,1,"Argentina,",1,1,6.5,7.5,0,Loricariidae
+49,Gold nugget pleco,,Baryancistrus sp. cf. xanthellus,1,25,1,4,2,1,210,27,32,2,"Brazil,",1,1,6,7.5,0,Loricariidae
+50,Whiptail catfish,Red Lizard Catfish,Rineloricaria* sp,1,11,2,3,2,2,75,24,29,1,"no natural occurrence,",A,1,6,7.5,1,Loricariidae
+51,Twig catfish,,Farlowella vittata,1,15,1,4,1,1,115,24,27,1,"Colombia, Venezuela,",1,1,6,7.5,0,Loricariidae
+54,Amazon sailfin catfish,,Pterygoplichthys pardalis,1,45,2,4,3,1,380,22,29,1,"Brazil,",1,1,6.5,7.5,0,Loricariidae
+239,Common pleco,suckermouth catfish,Hypostomus plecostomus,1,40,3,4,4,1,320,22,30,2,"Brazil, French Guiana, Guyana,",1,1,6.5,7.5,0,Loricariidae
+56,Leopard sailfin pleco,clown sailfin pleco,Pterygoplichthys gibbiceps,1,48,2,4,3,1,380,22,30,1,"Brazil, Venezuela,",1,1,6.5,7.5,0,Loricariidae
+57,Zebra pleco,,Hypancistrus zebra,1,8,2,2,3,1,55,26,30,1,"Brazil,",1,1,6,7.5,0,Loricariidae
+59,Golden dwarf sucker,golden oto,Otocinclus macrospilus,1,3.5,2,4,3,3,40,21,26,1,"Peru, Colombia, Ecuador,",1,1,6,7.5,1,Loricariidae
+60,Zebra dwarf sucker,zebra oto,Otocinclus cocama,1,4.5,2,4,3,3,40,21,25,1,"Peru,",1,1,6,7.5,0,Loricariidae
+61,Bolt catfish,,Aguarunichthys torosus,1,34,1,4,1,1,455,22,27,3,"Peru, Ecuador,",1,1,6,7.5,0,Pimelodidae
+63,Zebra shovelnose,,Brachyplatystoma tigrinum,1,50,1,4,1,1,570,22,32,2,"Brazil, Colombia, Peru,",1,1,6,7.5,0,Pimelodidae
+64,Vulture Catfish,zamurito,Calophysus macropterus,1,40,1,4,1,2,455,24,29,3,"Venezuela, Colombia,",1,1,6,7.5,0,Pimelodidae
+65,Spotted pimelodus,pictus catfish,Pimelodus pictus,1,14,1,4,2,3,210,22,25,2,"Colombia, Venezuela, Peru,",1,1,6,7.5,0,Pimelodidae
+66,Ornate Pimelodus,,Pimelodus ornatus,1,31,1,4,1,2,245,24,28,2,South America,1,1,6,7.5,0,Pimelodidae
+67,Zorro Catfish,Sturio Catfish,Platystomatichthys sturio,1,40,1,4,1,1,455,24,28,2,"Peru,",1,1,6,7.5,0,Pimelodidae
+68,Duckbill Catfish,Lima shovelnose catfish,Sorubium lima,1,50,1,4,1,2,720,23,30,2,South America,1,1,6,7.5,0,Pimelodidae
+69,Cuckoo squeaker,,Synodontis multipunctatus,1,25,2,3,2,3,190,24,28,1,"Lake Tanganyika,",2,1,7.5,8.5,0,Mochokidae
+70,Decorated squeaker,Decorated Synodontis,Synodontis decorus,1,30,2,4,2,1,200,22,27,2,Congo Basin,2,1,6.5,7.5,0,Mochokidae
+71,Even-Spotted squeaker,Cuckoo Synodontis,Synodontis petricola,1,12,2,3,2,3,170,24,28,1,"Lake Tanganyika,",2,1,7.5,8.5,0,Mochokidae
+72,Featherfin squeaker,Featherfin Synodontis,Synodontis eupterus,1,20,2,4,2,1,170,22,27,2,"Nigeria, Mali, Chad, Niger,",2,1,6.5,7.5,0,Mochokidae
+73,Lake Malawi syno,,Synodontis njassae,1,19,2,4,2,2,150,23,28,2,"Lake Malawi,",2,1,7.5,6.8,0,Mochokidae
+74,Polka dot syno,,Synodontis angelicus,1,30,2,4,1,1,210,24,28,2,Congo Basin,2,1,6,7.5,0,Mochokidae
+75,Common syno,false upside-down catfish,Synodontis nigrita,1,20,3,4,2,2,210,21,28,2,Africa,2,1,6,7.5,0,Mochokidae
+76,Upside-down catfish,,Synodontis nigriventris,1,10,4,4,2,3,115,24,28,1,Congo Basin,2,1,6,7.5,1,Mochokidae
+77,Three-striped African catfish,Three Striped African Glass Catfish,Pareutropius buffei,1,8,2,3,2,3,75,24,28,1,"Nigeria, Niger, Benin, Mali,",2,1,6,7.5,0,Schilbeidae
+78,Black lancer catfish,,Bagrichthys macracanthus,1,23,2,4,1,2,210,24,28,2,"Sumatra, Java, Borneo,",3,1,6,7.5,0,Bagridae
+79,Harlequin lancer catfish,,Bagroides melapterus,1,30,2,4,1,1,455,24,27,3,"Sumatra,",3,1,6.5,7.5,0,Bagridae
+80,Shadow catfish,,Hyalobagrus flavus,1,4.5,2,4,2,3,50,21,26,1,"Sumatra,",3,1,5.5,7.5,0,Bagridae
+81,Dwarf bumblebee catfish,,Pseudomystus leiacanthus,1,6,2,4,2,2,75,21,25,1,"Columbia, Venezuela, Peru,",1,1,6,7.5,0,Bagridae
+82,Asian bumblebee catfish,,Pseudomystus siamensis,1,15,2,4,2,1,115,20,26,2,"Thailand, Laos, Cambodia, Vietnam,",3,1,6,7.5,0,Bagridae
+83,Glass catfish,,Kryptopterus vitreolus,2,7,3,4,3,3,115,21,26,1,"Thailand,",3,1,6,7,0,Siluridae
+84,Striped glass catfish,,Kryptopterus macrocephalus,1,9,3,4,1,3,135,21,26,1,"Thailand,",3,1,6,7,0,Siluridae
+85,Borneo glass catfish,,Ompok eugeneiatus,1,16.5,1,4,1,3,170,21,28,1,"Malaysia, Sunda Islands",3,1,6,7.5,0,Siluridae
+86,Chocolate frogmouth catfish,,Chaca bankanensis,1,20,1,4,1,1,170,24,28,2,"Thailand,",3,1,6,7.5,0,Chacidae
+87,Asian banjo catfish,,Acrochordonichthys rugosus,1,11,1,4,1,2,95,18,24,2,"Malaysia, Sunda Islands",3,1,6,7.5,0,Akysidae
+88,Walking catfish,,Clarias batrachus,1,60,2,4,1,2,2270,20,26,2,Southeast Asia,3,1,6.5,8,0,Clariidae
+89,Stinging catfish,fossil catfish,Heteropneustes fossilis,1,30,1,4,1,2,245,21,25,2,"Iran, Pakistan, India, Nepal",4,1,6,8,0,Heteropneustidae
+90,Sun catfish,,Horabagrus brachysoma,1,45,1,4,1,1,645,23,25,2,"India,",4,1,6.5,7.5,0,Horabagridae
+91,Colombian shark catfish,,Ariopsis seemanni,1,35,1,4,1,2,850,22,26,2,Central America,5,1,7,8.5,0,Ariidae
+92,Blue whale catfish,,Cetopsis coecutiens,1,27,1,4,1,1,265,22,26,3,South America,1,1,6,7.5,0,Cetopsidae
+93,Banjo catfish,,Bunocephalus coracoideus,1,15,3,4,2,2,95,22,27,1,"Bolivia, Peru, Brazil,",1,1,6,7.5,0,Aspredinidae
+94,Striped raphael catfish,Humbug Catfish,Platydoras armatulus,1,22,2,4,3,2,170,24,30,1,South America,1,1,6,7.5,0,Doradidae
+95,Spotted raphael catfish,,Agamyxis pectinifrons,1,15,2,4,2,2,150,22,26,1,South America,1,1,6,7.5,0,Doradidae
+96,Bottlenose catfish,,Ageneiosus marmoratus,1,20,1,4,1,2,360,22,26,2,"Guyana, Suriname,",1,1,6..5,7.5,0,Auchenipteridae
+97,Gulper catfish,,Asterophysus batrachus,1,25,1,4,1,1,360,22,28,3,"Brazil, Venezuela,",1,1,6,7.5,0,Auchenipteridae
+98,Midnight catfish,,Auchenipterichthys coracoideus,1,11,2,4,2,2,75,22,25,1,"Peru, Brazil, Guyana,",1,1,6,7.5,0,Auchenipteridae
+99,Oil catfish,,Centromochlus perugiae,1,6,2,3,2,2,55,24,23,1,"Peru, Ecuador,",1,1,6,7.5,0,Auchenipteridae
+100,Jaguar catfish,,Liosomadoras oncinus,1,23,2,4,2,2,245,22,28,1,"Brazil,",1,1,6,7.5,0,Auchenipteridae
+101,Pygmy driftwood catfish,,Trachelyichthys exilis,1,8,1,4,2,2,80,22,25,1,"Peru,",1,1,6,7.5,0,Auchenipteridae
+376,Doctor Fish,,Garra rufa ,1,12,2,4,2,2,110,14,20,1,"Turkey, Syria, Iraq, Iran",W,1,6.5,8,0,Cyprinidae
+391,Drab Sole,,Achirus achirus,1,37,2,4,1,1,370,25,30,1,South America,1,1,6,7.5,0,Achiridae
+415,Panda Garra,,Garra flavatra,1,9,3,3,2,3,100,22,27,2,Myanmar,3,1,6,7.5,0,Cyprinidae
+436,Redline Torpedo Barb,Denison barb,Sahyadria denisonii,2,11,3,2,3,3,200,15,25,1,India,4,1,6.8,7.8,0,Cyprinidae
+377,Filament Barb,,Dawkinsia filamentosa,2,13,3,2,2,3,200,20,25,1,India,4,1,6,7.5,0,Cyprinidae
+178,Mascara Barb,,Dawkinsia assimilis,2,12,3,2,2,3,200,19,25,1,India,4,1,6.5,7.5,0,Cyprinidae
+179,Odessa Barb,scarlet barb,Pethia padamya,2,4.5,3,2,2,3,75,16,25,1,Myanmar ,3,1,6,7,1,Cyprinidae
+52,snakeskin barb,,desmopuntius rhomboocellatus,2,5.5,3,3,2,3,75,22,28,1,Borneo,3,1,6,7.5,0,Cyprinidae
+53,Melon Barb,Red Panda Barb,Haludaria fasciata,2,7,2,2,2,3,150,22,26,1,India,4,1,6,7.5,0,Cyprinidae
+378,Cardinal toothcarp,"Cardinal Brachy, Olomina",Brachyrhaphis roseni,2,6,3,1,1,2,60,22,30,2,"Costa Rica, Panama",5,1,7,8,0,Poeciliidae
+379,Fourspotted toothcarp,,Phallichthys quadripunctatus,2,3.5,3,1,1,2,40,20,30,1,Costa Rica,5,1,7,8,1,Poeciliidae
+380,Shortfin molly,Atlantic molly,Poecilia mexicana,2,11,3,1,1,2,120,22,28,1,"Mexico, Guatemala","5, 8",1,7,8.5,0,Poeciliidae
+381,Cauca molly,,Poecilia caucana,2,6,3,1,1,2,60,25,30,1,"Panama, Venezuela, Colombia","1, 5",1,7,8.5,0,Poeciliidae
+382,Merry widow livebearer,,Phallichthys amates,2,6.4,3,1,1,2,60,22,30,1,"Guatemala, Panama",5,1,7,8,0,Poeciliidae
+386,Gill's molly,,Poecilia gillii,2,10,3,1,1,2,100,22,30,1,"Costa Rica, Panama",5,1,7,8.5,0,Poeciliidae
+387,Golden Tetra,,Hemigrammus rodwayi,2,5.5,2,3,2,3,75,24,28,1,"The Guianas, Peru, Brazil,",1,1,5.5,7.5,0,Characidae
+388,Mayan Tetra,,Hyphessobrycon compressus ,2,4.5,2,4,1,3,60,20,26,1,"Mexico, Guatemala, Belize","5, 8",1,6,7.5,1,Characidae
+389,Tiger pacu,sheep pacu,Acnodon normani,2,13,2,4,2,2,175,22,28,2,Brazil,1,1,6,7.5,0,Serrasalmidae
+390,Flag Tetra,Belgian flag tetra,Hyphessobrycon heterorhabdus,2,3.5,2,2,2,3,60,21,27,1,"Colombia, Brazil",1,1,5.5,7,1,Characidae
+416,Sheepshead minnow,,Cyprinodon variegatus ,2,7,2,3,1,2,100,20,27,1,"United States, Mexico",8,1,7.5,8.5,0,Cyprinodontidae
+463,Spot-tail Tetra,,Brycinus imberi,2,27,2,4,1,2,245,22,27,2,Africa,2,1,6,7.5,0,Alestidae
+464,Arrowhead Puffer,,Tetraodon suvattii,1,15,2,3,2,1,100,22,26,3,"Thailand, Laos",3,1,6,7.5,0,Tetraodontidae
+465,Violet Goby,,Gobioides brousonnetti,1,55,1,4,2,1,450,22,26,3,"United States, Mexico, South America","1, 5, 8",1,6.5,8.5,1,Gobiidae
+466,Colombian Tetra,,Hyphessobrycon columbianus,2,5,3,3,2,3,75,23,28,1,Colombia,1,1,6,7,0,Characidae
+467,Texas Cichlid,,Herichthys cyanoguttatus,2,30,2,2,2,1,250,20,32,2,"United States, Mexico",8,1,6,7.5,0,Cichlidae
+468,Salvin's Cichlid,,Cichlasoma salvini,2,15,2,3,2,1,100,22,26,3,"Mexico, Guatemala, Belize","5, 8",1,6.5,8,0,Cichlidae
+469,Pearlscale Cichlid,,Herichthys carpintis,2,30,3,3,2,1,210,24,26,3,Mexico,8,1,7,8,0,Cichlidae
+470,Cascajal toothcarp,,Brachyrhaphis cascajalensis,2,5,2,3,1,2,40,24,28,2,Costa Rica,5,1,6.5,8,0,Poeciliidae
+471,African Moon Tetra,,Bathyaethiops caudomaculatus,2,8,2,3,2,3,85,22,25,1,Africa,2,1,6.5,7.5,0,Alestidae
+472,Spotscale Barb,African Spotscale Barb,Barbus holotaenia,2,12,2,4,2,3,120,24,30,1,Africa,2,1,6,7,0,Cyprinidae
+473,Badis,"blue perch, chameleon fish",Badis badis,2,6,2,3,2,1,75,15,25,1,"India, Bangladesh, Nepal",4,1,6,7.5,1,Badidae
+474,Banded Archerfish,,Toxotes jaculatrix,3,30,1,4,1,2,450,25,30,2,"South Asia, Southeast Asia, Australia","3,4,9",1,7,8,0,Toxotidae
+475,Paraguay Eartheater,Argentine humphead,Gymnogeophagus balzanii,2,14,1,2,2,1,140,21,25,3,"Uruguay, Brazil, Paraguay, Argentina",1,1,6.5,7.5,0,Cichlidae
+476,Akar Betta,,Betta akarensis ,2,8,2,3,2,1,75,21,27,2,Borneo,3,1,5.5,7,0,Osphronemidae
+477,Arulius barb,,Dawkinsia arulius,2,10,2,2,3,3,140,19,25,1,India,4,1,6,7.5,0,Cyprinidae
+478,Azureus,,Copadichromis azureus,2,15,2,2,2,2,300,25,28,2,Lake Malawi,2,1,7.5,8.5,0,Cichlidae
+479,Black Pacu,,Colossoma macropomum,2,60,1,4,1,1,2500,22,28,2,South America,1,1,5.5,7.5,0,Serrasalmidae
+480,Black Shark,,Labeo chrysophekadion,2,60,1,4,1,1,2500,20,26,3,Southeast Asia,3,1,6,8,0,Cyprinidae
+481,Hairy Puffer,,Tetraodon baileyi,1,14,2,4,1,1,100,23,27,3,"Thailand, Laos",3,1,6.5,7.5,0,Tetraodontidae
+414,Spotted Severum,,Heros notatus,2,30,2,4,1,2,220,22,29,2,Brazil,1,1,6,7,0,Cichlidae
+482,Banded Gourami,,Trichogaster fasciata,2,9,2,3,2,2,100,21,28,2,"Pakistan, India, Nepal",4,1,6,7.5,0,Osphronemidae
+483,Balunga Betta,,Betta balunga ,2,5,3,3,2,1,60,22,27,1,Borneo,3,1,5,7,0,Osphronemidae
+484,Raja Betta,,Betta raja ,2,7,2,3,1,1,100,22,27,1,Sumatra,3,1,5,7,1,Osphronemidae
+485,Pugnax Betta,Forest betta,Betta pugnax ,2,7,2,3,1,1,60,22,28,1,Malaysia,3,1,5,7.5,0,Osphronemidae
+486,Blackbelt Cichlid,,Vieja maculicauda,2,32,2,3,2,1,250,22,28,3,Central America,5,1,6.5,7.5,0,Cichlidae
+487,Blue-eyed Tropheus,ulwile,Tropheus brichardi,2,11,2,2,2,1,140,23,28,2,Lake Tanganyika,2,1,7.8,9,0,Cichlidae
+488,Blue Neon Cichlid,,Paracyprichromis nigripinnis,2,11,2,3,2,2,180,24,27,1,Lake Tanganyika,2,1,7.5,9,0,Cichlidae
+489,Blue Tetra,,Boehlkea fredcochui,2,5.5,3,3,3,3,75,22,28,1,Peru,1,1,6,7.5,0,Characidae
+490,African Butterfly Barb,,Barbus hulstaerti,2,3.5,2,3,1,3,40,17,24,1,Central Africa,2,1,5,6.5,1,Cyprinidae
+491,Yellow Phantom Tetra,,Hyphessobrycon roseus,2,2,2,2,2,3,25,20,28,1,"Suriname, French Guiana",1,1,5,7,1,Characidae
+492,African Banded Barb,,Barbus fasciolatus,2,6,3,3,2,3,75,20,26,1,Africa,2,1,5,6.5,1,Cyprinidae
+493,Brevis Shell Dweller,,Neolamprologus brevis,2,6,2,2,2,2,60,23,27,2,Lake Tanganyika,2,1,7.5,9,1,Cichlidae
+494,Brittan’s rasbora,,Kottelatia brittani,2,6,2,2,1,3,60,20,26,1,Malaysia,3,1,6,7.5,1,Cyprinidae
+495,Ceros Tetra,,Moenkhausia ceros,2,5,2,4,1,3,60,24,28,1,"Peru, Brazil",1,1,5.5,7,1,Characidae
+496,Checkered Barb,,Oliotius oligolepis ,2,4.5,3,2,3,3,60,20,26,1,Sumatra,3,1,5.5,7.5,1,Cyprinidae
+497,Crocodile Catfish,,Bagarius suchus,1,70,1,4,1,1,2500,18,23,3,"Thailand, Laos, Cambodia",3,1,65,7.5,1,Sisoridae
+498,White-Spotted Cichlid,,Tropheus duboisi,2,12,2,3,2,2,110,23,28,2,Lake Tanganyika,2,1,7.5,9,1,Cichlidae
+499,Chukai Betta,,Betta tussyae,2,4,2,4,1,1,40,23,28,1,Malaysia,3,1,5,6.5,1,Osphronemidae
+500,Clown Barb,,Barbodes everetti ,2,12,3,4,2,3,150,18,28,1,Bornea,3,1,6,7,1,Cyprinidae
+501,Burmese Badis,,Badis ruber ,2,5,3,3,2,1,75,18,25,2,"Myanmar, Thailand, Laos",3,1,6.5,7.5,1,Badidae
+900,Cherry Shrimp,,Neocaridina davidi,1,4,4,1,4,2,20,15,29,1,Taiwan,6,0,6.5,8,0,Atyidae
+901,Amano Shrimp,,Caridina multidentata,1,5,4,3,4,2,30,15,27,1,Japan,6,0,6,7.5,1,Atyidae
+902,Bamboo Shrimp,,Atyopsis moluccensis,1,10,3,3,2,2,50,22,29,1,Southeast Asia,3,0,6.5,7.5,0,Atyidae
+903,Ghost Shrimp,glass shrimp,Palaemon paludosus,1,4,3,2,2,2,20,18,29,2,North America,8,0,7,8,0,Palaemonidae
+905,Tiger Shrimp,,Caridina mariae,1,4,2,2,3,2,25,18,23,1,Taiwan,6,0,6,7.5,0,Atyidae
+906,Vampire Shrimp,,Atya gabonensis,1,13,2,3,2,2,75,24,28,1,West Africa,2,0,6.5,7.5,0,Atyidae
+907,Riceland prawn,whisker shrimp,Macrobrachium lanchesteri,1,9,2,3,2,2,60,24,30,3,Southeast Asia,3,0,6.5,8,0,Palaemonidae
+908,Sulawesi Shrimp,cardinal shrimp,Caridina dennerli,1,2.5,2,1,1,2,20,26,31,1,Sulawesi,3,0,7.5,8.5,0,Atyidae
+909,Rili Shrimp,,Neocaridina davidi,1,3.8,4,1,3,2,20,15,29,1,Taiwan,6,0,6.5,8,0,Atyidae
+910,Blue Velvet Shrimp,Blue Neocaridina,Neocaridina davidi,1,4,4,1,4,2,20,15,29,1,Taiwan,6,0,6.5,8,0,Atyidae
+911,Yellow Neocaridina,,Neocaridina davidi,1,4,4,1,4,2,20,15,29,1,Taiwan,6,0,6.5,8,0,Atyidae
+912,Orange Neocaridina,,Neocaridina davidi,1,4,4,1,3,2,20,15,29,1,Taiwan,6,0,6.5,8,0,Atyidae
+929,Green Jade Shrimp,,Neocaridina davidi,1,4,4,1,1,2,20,15,29,1,Taiwan,6,0,6.5,8,0,Atyidae
+904,Bee Shrimp,,Caridina cantonensis,1,3,3,2,3,2,20,19,26,1,"Taiwan, Southern China",6,0,5.5,7.5,0,Atyidae
+913,Crystal Red Shrimp,,Caridina cantonensis,1,4,2,3,2,2,30,19,26,1,"Taiwan, Southern China",6,0,5.5,7.5,0,Atyidae
+914,Bladder Snail,,Physella acuta,1,1.5,4,1,4,1,20,14,30,1,Europe,7,2,6.5,8,1,Physidae
+915,Zebra Nerite,,Vittina natalensis,1,2.5,4,3,4,1,20,19,29,1,Africa,2,2,6.5,8,1,Neritidae
+916,Assassin Snail,,Anentome helena,1,2.5,3,2,3,1,20,22,27,2,"Malaysia, Thailand, Indonesia",3,2,6.5,8,1,Nassariidae
+917,Mystery Snail,spike-topped apple snail,Pomacea diffusa,1,5,3,2,2,1,20,21,26,1,South America,1,2,6.5,8,0,Ampullariidae
+918,Giant Colombian Ramshorn,,Marisa cornuarietis,1,5,3,2,3,1,20,23,27,1,"Central America, South America",5,2,6.5,8,0,Ampullariidae
+919,Great Ramshorn,,Planorbarius corneus,1,4,3,1,3,1,20,18,25,1,"Europe, Middle East","7, W",2,6.5,8,0,Planorbidae
+920,Seminole Ramshorn,,Planorbella duryi,1,2.5,4,1,3,1,20,20,28,1,Florida,8,2,6.5,8,1,Planorbidae
+921,Black Devil Snail,,Faunus ater,1,10,3,4,2,1,50,22,30,1,Southeast Asia,3,2,6.5,7.5,0,Pachychilidae
+922,Japanese Trapdoor Snail,,Cipangopaludina malleat,1,5,3,2,1,1,30,18,25,1,Japan,6,2,6.5,8,0,Viviparidae
+923,Malaysian Trumpet Snail,,Melanoides tuberculata,1,3,4,1,2,1,20,21,25,1,Southeast Asia,3,2,6.5,8,0,Thiaridae
+924,Pagoda Snail,,Brotia pagoluda,1,6,2,3,2,1,20,22,28,1,"Thailand, Laos, Cambodia",3,2,6.8,8,0,Pachychilidae
+925,Great  Pond Snail,,Lymnaea stagnalis,1,6,3,2,3,1,20,18,24,1,Europe,7,2,6.5,8,0,Lymnaeidae
+926,White Spotted Rabbit Snail,Towuti Snail,Tylomelania towutica,1,11,2,3,2,1,60,24,29,1,Sulawesi,3,2,7,8.5,0,Pachychilidae
+927,Triangle Rabbit Snail,,Tylomelania sinabartfeldi,1,5,2,3,2,1,20,24,30,1,Sulawesi,3,2,7,8.5,0,Pachychilidae
+936,Apple Snail ,,Pomacea canaliculata,1,15,4,3,3,1,80,18,27,1,South America,1,2,6.5,8,0,Ampullariidae
+930,Wandering Snail,,Ampullaceana balthica,1,7,3,2,3,1,40,10,29,1,Europe,7,2,6.5,8,0,Lymnaeidae
+931,Marbled Limpet Nerite,,Septaria porcellana,1,3,4,3,2,1,20,23,28,1,Southeast Asia,3,2,6.5,8,1,Neritidae
+932,White Wizard Snail,,Filopaludina martensi,1,5,3,3,1,1,40,22,26,1,Southeast Asia,3,2,6.5,8,0,Viviparidae
+933,Gold Rabbit Snail,yellow rabbit snail,Tylomelania gemmifera,1,7,2,2,2,1,60,24,28,1,Sulawesi,3,2,7,8.5,0,Pachychilidae
+934,Himalayan Rabbit Snail,,Tylomelania marwotoae,1,5,3,3,1,1,40,25,30,1,Sulawesi,3,2,7,8.5,0,Pachychilidae
+935,Dusky Nerite Snail,,Neritina pulligera,1,4,4,3,4,1,20,22,28,1,"Southeast Asia, Northern Australia",9,2,6.5,8,0,Neritidae
+937,Thai Micro Crab,,Limnopilos Naiyanetri,1,2.5,2,3,2,2,20,22,28,1,Thailand,3,3,6.5,7.5,1,Hymenosomatidae
+938,Pom Pom Crab,,Ptychognathus Barbatus,1,4,3,3,2,2,20,22,28,1,"Southeast Asia, South Asia","3, 4",3,6.5,7.5,0,Grapsidae
+939,Tanganyika Crab,,Platythelphusa Sp.,1,10,2,3,1,1,60,24,28,2,Africa,2,3,7,8.5,0,Potamonautidae
+940,Panther Crab,,Parathelphusa Pantherina,1,11,2,3,1,1,85,24,30,2,Sulawesi,3,3,7.5,8.5,0,Parathelphusidae
+941,Matano Crab,,Syntripsa Matannensis,1,11,2,3,1,1,85,24,30,2,Sulawesi,3,3,7.3,8.5,0,Potamidae
