@@ -2,3 +2,4 @@ flask
 pandas
 fuzzywuzzy
 python-Levenshtein
+gunicorn
