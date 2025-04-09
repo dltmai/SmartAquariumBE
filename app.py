@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import pandas as pd
 from fuzzywuzzy import process
 import json
 
 app = Flask(__name__)
+CORS(app)
 
 # Bảng mã giải mã
 codes_hardi = {4: "Beginner", 3: "Easy", 2: "Medium", 1: "Difficult"}
