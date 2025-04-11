@@ -2,3 +2,5 @@ flask
 pandas
 fuzzywuzzy
 python-Levenshtein
+gunicorn
+flask-cors
